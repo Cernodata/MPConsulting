@@ -71,7 +71,7 @@ export default function ContactPage() {
                 Book Your Consultation
               </h2>
               <p className="text-gray-600 mb-8">
-                Fill out the form below and we'll get back to you as soon as possible to schedule your consultation.
+                Fill out the form below and we&apos;ll get back to you as soon as possible to schedule your consultation.
               </p>
 
               <form onSubmit={handleSubmit} className="space-y-6">
@@ -156,7 +156,7 @@ export default function ContactPage() {
 
                 {submitStatus === 'success' && (
                   <div className="bg-green-50 border border-green-200 text-green-800 px-4 py-3 rounded-lg">
-                    Thank you! We've received your message and will get back to you shortly.
+                    Thank you! We&apos;ve received your message and will get back to you shortly.
                   </div>
                 )}
 
@@ -182,7 +182,7 @@ export default function ContactPage() {
                 Contact Information
               </h2>
               <p className="text-gray-600 mb-8">
-                Get in touch with us through any of the following methods. We're here to help you make informed property purchase decisions.
+                Get in touch with us through any of the following methods. We&apos;re here to help you make informed property purchase decisions.
               </p>
 
               <div className="space-y-6 mb-8">

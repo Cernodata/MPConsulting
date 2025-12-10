@@ -33,7 +33,7 @@ export default function AboutPage() {
                   His expert knowledge, combined with a keen hands-on work ethic, positions him perfectly to offer a unique consulting service. Martin understands both the practical realities of construction and the strategic decisions that property buyers face.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  This real-world experience means that when you consult with MP Consulting, you're getting advice grounded in actual construction practice, not just theory. Martin knows what works, what costs what, and what to watch out for.
+                  This real-world experience means that when you consult with MP Consulting, you&apos;re getting advice grounded in actual construction practice, not just theory. Martin knows what works, what costs what, and what to watch out for.
                 </p>
               </div>
 
@@ -83,7 +83,7 @@ export default function AboutPage() {
                 </div>
                 <div>
                   <h3 className="font-display text-2xl font-bold text-primary-900 mb-4">
-                    Why We're Different
+                    Why We&apos;re Different
                   </h3>
                   <ul className="space-y-3 text-gray-700">
                     <li className="flex items-start">
@@ -122,7 +122,7 @@ export default function AboutPage() {
                   MP Consulting Limited is based on Princess Street in Knutsford, UK. We serve clients throughout the North West and beyond, bringing our expertise to property buyers who want to make informed decisions.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  Whether you're looking at a property in Knutsford, Manchester, Altrincham, or anywhere in the region, we're here to help you understand exactly what your renovation project will involve before you commit to the purchase.
+                  Whether you&apos;re looking at a property in Knutsford, Manchester, Altrincham, or anywhere in the region, we&apos;re here to help you understand exactly what your renovation project will involve before you commit to the purchase.
                 </p>
               </div>
             </div>
@@ -137,7 +137,7 @@ export default function AboutPage() {
             Ready to Work Together?
           </h2>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            Let's discuss how we can help you make an informed property purchase decision
+            Let&apos;s discuss how we can help you make an informed property purchase decision
           </p>
           <Link href="/contact" className="btn-primary text-lg px-8 py-4">
             Get in Touch

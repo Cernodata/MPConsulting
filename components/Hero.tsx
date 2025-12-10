@@ -30,7 +30,7 @@ export default function Hero() {
             Make Informed Decisions Before You Buy
           </h1>
           <p className="text-xl md:text-2xl text-primary-100 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Get expert advice on specifications, pricing, and design for your proposed renovations before making the big commitment. Martin's hands-on expertise ensures you know exactly what you're buying into.
+            Get expert advice on specifications, pricing, and design for your proposed renovations before making the big commitment. Martin&apos;s hands-on expertise ensures you know exactly what you&apos;re buying into.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Link href="/contact" className="btn-secondary text-lg px-8 py-4">

@@ -9,7 +9,7 @@ export default function CTA() {
             Ready to Make an Informed Property Purchase?
           </h2>
           <p className="text-xl text-primary-100 mb-8 leading-relaxed">
-            Don't let renovation costs catch you by surprise. Get expert advice before you buy and make your property purchase with complete confidence.
+            Don&apos;t let renovation costs catch you by surprise. Get expert advice before you buy and make your property purchase with complete confidence.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact" className="btn-secondary text-lg px-8 py-4">
