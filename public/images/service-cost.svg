@@ -1,0 +1,38 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="calcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#243b53;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#102a43;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Calculator -->
+  <rect x="140" y="80" width="120" height="160" fill="url(#calcGrad)" rx="6"/>
+  <rect x="150" y="100" width="100" height="30" fill="#d9e2ec" rx="2"/>
+  <text x="200" y="120" font-family="Arial" font-size="16" font-weight="bold" fill="#102a43" text-anchor="middle">£45,000</text>
+  
+  <!-- Calculator buttons -->
+  <rect x="150" y="145" width="20" height="20" fill="#ffc91a" rx="2"/>
+  <rect x="180" y="145" width="20" height="20" fill="#627d98" rx="2"/>
+  <rect x="210" y="145" width="20" height="20" fill="#627d98" rx="2"/>
+  <rect x="240" y="145" width="20" height="20" fill="#627d98" rx="2"/>
+  
+  <rect x="150" y="175" width="20" height="20" fill="#627d98" rx="2"/>
+  <rect x="180" y="175" width="20" height="20" fill="#627d98" rx="2"/>
+  <rect x="210" y="175" width="20" height="20" fill="#627d98" rx="2"/>
+  <rect x="240" y="175" width="20" height="20" fill="#627d98" rx="2"/>
+  
+  <rect x="150" y="205" width="20" height="20" fill="#627d98" rx="2"/>
+  <rect x="180" y="205" width="20" height="20" fill="#627d98" rx="2"/>
+  <rect x="210" y="205" width="50" height="20" fill="#ffc91a" rx="2"/>
+  
+  <!-- Pound sign icon -->
+  <circle cx="280" cy="150" r="35" fill="#ffc91a"/>
+  <text x="280" y="165" font-family="Arial" font-size="32" font-weight="bold" fill="#102a43" text-anchor="middle">£</text>
+  
+  <!-- Chart/Graph -->
+  <rect x="100" y="200" width="30" height="40" fill="#ffc91a" rx="2"/>
+  <rect x="140" y="180" width="30" height="60" fill="#243b53" rx="2"/>
+  <rect x="180" y="190" width="30" height="50" fill="#ffc91a" rx="2"/>
+</svg>
+

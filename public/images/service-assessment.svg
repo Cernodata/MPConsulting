@@ -1,0 +1,29 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="houseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#243b53;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#102a43;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- House structure -->
+  <rect x="120" y="140" width="160" height="100" fill="url(#houseGrad)" rx="4"/>
+  <polygon points="200,80 280,140 120,140" fill="#334e68"/>
+  
+  <!-- Door -->
+  <rect x="170" y="190" width="40" height="50" fill="#ffc91a" rx="2"/>
+  <circle cx="205" cy="215" r="2" fill="#102a43"/>
+  
+  <!-- Windows -->
+  <rect x="135" y="160" width="25" height="25" fill="#d9e2ec" rx="2"/>
+  <rect x="240" y="160" width="25" height="25" fill="#d9e2ec" rx="2"/>
+  
+  <!-- Checkmark badge -->
+  <circle cx="280" cy="100" r="30" fill="#ffc91a"/>
+  <path d="M270 100 L275 105 L290 90" stroke="#102a43" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Inspection lines -->
+  <line x1="100" y1="120" x2="120" y2="140" stroke="#486581" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="280" y1="140" x2="300" y2="120" stroke="#486581" stroke-width="2" stroke-dasharray="5,5"/>
+</svg>
+
