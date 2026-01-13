@@ -18,9 +18,9 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'MP Consulting Limited | Pre-Purchase Renovation Consultancy | Knutsford',
-  description: 'Expert pre-purchase renovation consulting in Knutsford. Get professional advice on specifications, pricing, and design before you buy. Make informed decisions with MP Consulting.',
-  keywords: 'renovation consultant, pre-purchase consultation, property renovation advice, Knutsford, home renovation planning, renovation cost estimation',
+  title: 'Build Clarity | Pre-Purchase Renovation Consultancy',
+  description: 'Expert pre-purchase renovation consulting. Get professional advice on specifications, pricing, and design before you buy with Build Clarity.',
+  keywords: 'renovation consultant, pre-purchase consultation, property renovation advice, home renovation planning, renovation cost estimation, Build Clarity',
 }
 
 export default function RootLayout({

@@ -13,11 +13,11 @@ export default function Header() {
         <div className="flex items-center justify-between h-20">
           <Link href="/" className="flex items-center gap-3">
             <Image 
-              src="/logos/logo-option-3.svg" 
-              alt="MP Consulting Limited" 
-              width={200} 
-              height={60}
-              className="h-12 w-auto"
+              src="/logos/build-clarity-logo.svg" 
+              alt="Build Clarity" 
+              width={180} 
+              height={90}
+              className="h-16 w-auto"
               priority
             />
             <span className="hidden lg:block text-sm text-gray-600 font-medium italic border-l border-gray-300 pl-3">
