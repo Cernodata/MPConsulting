@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 595.28 301.25">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        mask: url(#mask);
+      }
+
+      .st3 {
+        fill: #334368;
+      }
+
+      .st4 {
+        fill: #11274a;
+      }
+
+      .st5 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st6 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st7 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st8 {
+        fill: url(#linear-gradient5);
+      }
+
+      .st9 {
+        fill: url(#linear-gradient4);
+      }
+
+      .st10 {
+        fill: #303c61;
+      }
+
+      .st11 {
+        fill: #3f547a;
+      }
+
+      .st12 {
+        fill: url(#linear-gradient);
+      }
+
+      .st13 {
+        fill: #45414a;
+      }
+
+      .st14 {
+        fill: #b19483;
+      }
+
+      .st15 {
+        clip-path: url(#clippath-10);
+      }
+
+      .st16 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st17 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st18 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st19 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st20 {
+        clip-path: url(#clippath-7);
+      }
+
+      .st21 {
+        clip-path: url(#clippath-6);
+      }
+
+      .st22 {
+        clip-path: url(#clippath-9);
+      }
+
+      .st23 {
+        clip-path: url(#clippath-8);
+      }
+
+      .st24 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st1 {
+        stroke: #b19483;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .st25 {
+        fill: #e18538;
+      }
+
+      .st26 {
+        fill: #4d658e;
+      }
+
+      .st27 {
+        fill: #1b2148;
+      }
+
+      .st28 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" width="595.28" height="301.25"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" width="595.28" height="301.25"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="st0" points="111.9 69.65 111.9 232.79 164.45 266.82 216.99 239.51 216.99 69.65 164.45 42.85 111.9 69.65"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0" y1="301.25" x2="1" y2="301.25" gradientTransform="translate(216.99 -31506.2) rotate(-180) scale(105.1 -105.1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7dbaf"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clippath-3">
+      <rect class="st0" width="595.28" height="301.25"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <polygon class="st0" points="168.77 180.45 187.29 180.45 187.29 169.24 168.77 162.46 168.77 180.45"/>
+    </clipPath>
+    <linearGradient id="linear-gradient1" x1="0" y1="301.25" x2="1" y2="301.25" gradientTransform="translate(5598.9 180.45) rotate(-90) scale(17.99 -17.99)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="mask" x="168.77" y="162.46" width="18.52" height="18" maskUnits="userSpaceOnUse">
+      <rect class="st6" x="168.77" y="162.46" width="18.52" height="18"/>
+    </mask>
+    <linearGradient id="linear-gradient2" x1="0" y1="301.25" x2="1" y2="301.25" gradientTransform="translate(5598.9 180.45) rotate(-90) scale(17.99 -17.99)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3c4b79"/>
+      <stop offset="1" stop-color="#242148"/>
+      <stop offset="1" stop-color="#242148"/>
+    </linearGradient>
+    <clipPath id="clippath-5">
+      <rect class="st0" width="595.28" height="301.25"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <polygon class="st0" points="194.38 239.51 216.99 227.84 216.99 128.98 194.38 117.56 194.38 239.51"/>
+    </clipPath>
+    <linearGradient id="linear-gradient3" x1="0" y1="301.25" x2="1" y2="301.25" gradientTransform="translate(-36533.85 117.56) rotate(90) scale(121.96 -121.96)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00092c"/>
+      <stop offset="1" stop-color="#292f45"/>
+    </linearGradient>
+    <clipPath id="clippath-7">
+      <rect class="st0" width="595.28" height="301.25"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <polygon class="st0" points="216.99 152.62 244.21 165.05 244.21 210.78 164.45 251.39 164.45 274.07 264.8 219.54 264.8 153.12 216.99 128.98 216.99 152.62"/>
+    </clipPath>
+    <linearGradient id="linear-gradient4" x1="0" y1="301.25" x2="1" y2="301.25" gradientTransform="translate(264.81 -30032.02) rotate(-180) scale(100.36 -100.36)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d06d35"/>
+      <stop offset="1" stop-color="#984b38"/>
+    </linearGradient>
+    <clipPath id="clippath-9">
+      <polygon class="st0" points="53.98 144.23 53.98 218.8 164.45 274.07 164.45 251.39 78.94 207.57 78.9 153.54 142.09 122.05 142.2 172.22 164.45 160.87 164.45 86.84 53.98 144.23"/>
+    </clipPath>
+    <linearGradient id="linear-gradient5" x1="0" y1="301.14" x2="1" y2="301.14" gradientTransform="translate(-51057.81 115.79) rotate(90) scale(169.91 -169.91)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3c4b79"/>
+      <stop offset="1" stop-color="#011637"/>
+    </linearGradient>
+    <clipPath id="clippath-10">
+      <rect class="st0" width="595.28" height="301.25"/>
+    </clipPath>
+  </defs>
+  <g class="st28">
+    <g class="st16">
+      <path class="st27" d="M338.71,139.12c0,8.45-6.62,13.38-19.29,13.38h-24.5v-49.28h23.09c11.83,0,18.16,5,18.16,12.81,0,5.07-2.53,8.8-6.34,10.84,5.28,1.69,8.87,5.84,8.87,12.25M304.08,110.4v13.59h12.95c6.34,0,9.93-2.25,9.93-6.76s-3.59-6.83-9.93-6.83h-12.95ZM329.49,138.21c0-4.93-3.73-7.11-10.63-7.11h-14.79v14.22h14.79c6.9,0,10.63-2.18,10.63-7.11"/>
+      <path class="st27" d="M348.08,131.02v-27.81h9.15v27.46c0,10.14,4.58,14.5,12.53,14.5s12.46-4.37,12.46-14.5v-27.46h9.01v27.81c0,14.36-8.1,22.18-21.54,22.18s-21.61-7.82-21.61-22.18"/>
+      <rect class="st27" x="404.05" y="103.21" width="9.15" height="49.28"/>
+      <polygon class="st27" points="426.5 103.21 435.65 103.21 435.65 144.75 461.42 144.75 461.42 152.5 426.5 152.5 426.5 103.21"/>
+      <path class="st27" d="M468.67,103.21h21.54c15.98,0,26.89,9.86,26.89,24.64s-10.91,24.64-26.89,24.64h-21.54v-49.28ZM489.8,144.75c10.98,0,18.09-6.69,18.09-16.9s-7.11-16.9-18.09-16.9h-11.97v33.79h11.97Z"/>
+      <path class="st27" d="M291.31,188.97c0-10.94,8.38-18.85,19.64-18.85,5.97,0,11.1,2.15,14.51,6.13l-4.4,4.14c-2.67-2.88-5.97-4.29-9.79-4.29-7.59,0-13.09,5.34-13.09,12.88s5.5,12.88,13.09,12.88c3.82,0,7.12-1.41,9.79-4.35l4.4,4.19c-3.4,3.98-8.54,6.13-14.56,6.13-11.21,0-19.58-7.91-19.58-18.85"/>
+      <polygon class="st27" points="333.05 170.65 339.86 170.65 339.86 201.54 359.03 201.54 359.03 207.3 333.05 207.3 333.05 170.65"/>
+      <path class="st27" d="M389.51,198.82h-18.33l-3.61,8.48h-7.02l16.5-36.66h6.7l16.55,36.66h-7.12l-3.66-8.48ZM387.26,193.48l-6.91-16.02-6.86,16.02h13.77Z"/>
+      <path class="st27" d="M429.99,207.3l-7.49-10.74c-.47.05-.94.05-1.42.05h-8.27v10.68h-6.81v-36.66h15.08c9.64,0,15.61,4.92,15.61,13.04,0,5.55-2.83,9.64-7.8,11.57l8.43,12.04h-7.33ZM420.77,176.41h-7.96v14.61h7.96c5.97,0,9.06-2.72,9.06-7.33s-3.09-7.28-9.06-7.28"/>
+      <rect class="st27" x="445.33" y="170.65" width="6.81" height="36.66"/>
+      <polygon class="st27" points="470.52 176.41 458.37 176.41 458.37 170.65 489.48 170.65 489.48 176.41 477.33 176.41 477.33 207.3 470.52 207.3 470.52 176.41"/>
+      <polygon class="st27" points="512 194.37 512 207.3 505.19 207.3 505.19 194.47 490.79 170.65 498.07 170.65 508.81 188.5 519.65 170.65 526.35 170.65 512 194.37"/>
+      <polygon class="st13" points="379.32 223.9 381.34 223.9 381.34 241.33 392.09 241.33 392.09 243.09 379.32 243.09 379.32 223.9"/>
+      <polygon class="st13" points="401.78 225.66 395.04 225.66 395.04 223.9 410.55 223.9 410.55 225.66 403.81 225.66 403.81 243.09 401.78 243.09 401.78 225.66"/>
+      <path class="st13" d="M418.17,223.9h7.81c6.14,0,10.28,3.95,10.28,9.59s-4.14,9.59-10.28,9.59h-7.81v-19.18ZM425.87,241.33c5.1,0,8.39-3.23,8.39-7.84s-3.29-7.84-8.39-7.84h-5.67v15.68h5.67Z"/>
+      <line class="st14" x1="291.38" y1="234.54" x2="363.76" y2="234.54"/>
+      <line class="st1" x1="291.38" y1="234.54" x2="363.76" y2="234.54"/>
+      <line class="st14" x1="450.66" y1="234.54" x2="523.04" y2="234.54"/>
+      <line class="st1" x1="450.66" y1="234.54" x2="523.04" y2="234.54"/>
+    </g>
+    <g class="st19">
+      <rect class="st12" x="111.9" y="42.85" width="105.1" height="223.97"/>
+    </g>
+    <g class="st17">
+      <polygon class="st3" points="168.77 156.78 168.77 253.09 187.29 244.12 187.29 163.86 168.77 156.78"/>
+    </g>
+    <g class="st18">
+      <g class="st2">
+        <rect class="st5" x="168.77" y="162.46" width="18.52" height="18"/>
+      </g>
+    </g>
+    <g class="st24">
+      <polygon class="st11" points="76.92 218.77 76.96 173.31 111.9 191.21 111.9 235.5 76.92 218.77"/>
+      <polygon class="st25" points="251.97 222.78 251.93 177.32 216.99 195.22 216.99 239.51 251.97 222.78"/>
+      <polygon class="st4" points="164.45 102.49 111.9 129.29 111.9 187.67 164.45 160.87 164.45 102.49"/>
+      <polygon class="st4" points="164.45 169.69 111.9 196.88 111.9 235.5 164.45 261.29 164.45 169.69"/>
+      <polygon class="st4" points="164.45 42.85 111.9 69.65 111.9 108.52 164.45 80.92 164.45 42.85"/>
+      <polygon class="st26" points="164.45 42.85 216.99 69.65 216.99 121.97 194.38 110.56 194.38 96.64 164.45 80.92 164.45 42.85"/>
+    </g>
+    <g class="st21">
+      <rect class="st7" x="194.38" y="117.56" width="22.61" height="121.96"/>
+    </g>
+    <g class="st20">
+      <polygon class="st26" points="187.29 169.24 187.29 98.92 164.45 86.92 164.45 160.87 187.29 169.24"/>
+    </g>
+    <g class="st23">
+      <rect class="st9" x="164.45" y="128.98" width="100.36" height="145.09"/>
+    </g>
+    <g class="st22">
+      <rect class="st8" x="3.97" y="75.21" width="210.5" height="210.5" transform="translate(-95.61 130.08) rotate(-45)"/>
+    </g>
+    <g class="st15">
+      <polygon class="st10" points="164.45 251.39 164.45 169.69 142.22 181.19 142.35 240.07 164.45 251.39"/>
+    </g>
+  </g>
+</svg>

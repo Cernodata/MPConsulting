@@ -6,7 +6,7 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://www.mpconsulting.co.uk/sitemap.xml',
+    sitemap: 'https://www.buildclarity.co.uk/sitemap.xml',
   }
 }
 

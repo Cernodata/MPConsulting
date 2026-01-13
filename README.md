@@ -1,6 +1,6 @@
-# MP Consulting Limited Website
+# Build Clarity Website
 
-A modern, high-converting website for MP Consulting Limited - a pre-purchase renovation consulting service based in Knutsford, UK.
+A modern, high-converting website for Build Clarity - a pre-purchase renovation consulting service based in Knutsford, UK.
 
 ## Features
 

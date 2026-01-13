@@ -9,11 +9,11 @@ export default function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="mb-4">
               <Image 
-                src="/logos/logo-option-3-white.svg" 
-                alt="MP Consulting Limited" 
-                width={200} 
-                height={60}
-                className="h-10 w-auto"
+                src="/logos/build-clarity-logo.svg" 
+                alt="Build Clarity" 
+                width={180} 
+                height={90}
+                className="h-14 w-auto brightness-0 invert"
               />
             </div>
             <p className="text-accent-400 font-semibold text-lg mb-2 italic">
@@ -67,7 +67,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-primary-800 mt-12 pt-8 text-center text-primary-200">
-          <p>&copy; {new Date().getFullYear()} MP Consulting Limited. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Build Clarity. All rights reserved.</p>
         </div>
       </div>
     </footer>

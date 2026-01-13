@@ -8,7 +8,7 @@ export default function AboutPage() {
         <div className="container-custom">
           <div className="max-w-3xl">
             <h1 className="font-display text-4xl md:text-5xl font-bold mb-6">
-              About MP Consulting
+              About Build Clarity
             </h1>
             <p className="text-xl text-primary-100 leading-relaxed">
               Combining hands-on construction expertise with strategic consulting to help you make informed property purchase decisions.
@@ -27,13 +27,13 @@ export default function AboutPage() {
                   Meet Martin
                 </h2>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                  Martin is the founder of MP Consulting Limited and brings over 25 years of hands-on experience in the construction industry. As the owner of a medium-sized building construction company, he has successfully managed projects ranging from domestic extensions to large-scale commercial builds and renovations.
+                  Martin is the founder of Build Clarity and brings over 25 years of hands-on experience in the construction industry. As the owner of a medium-sized building construction company, he has successfully managed projects ranging from domestic extensions to large-scale commercial builds and renovations.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
                   His expert knowledge, combined with a keen hands-on work ethic, positions him perfectly to offer a unique consulting service. Martin understands both the practical realities of construction and the strategic decisions that property buyers face.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  This real-world experience means that when you consult with MP Consulting, you&apos;re getting advice grounded in actual construction practice, not just theory. Martin knows what works, what costs what, and what to watch out for.
+                  This real-world experience means that when you consult with Build Clarity, you&apos;re getting advice grounded in actual construction practice, not just theory. Martin knows what works, what costs what, and what to watch out for.
                 </p>
               </div>
 
@@ -42,7 +42,7 @@ export default function AboutPage() {
                   Our Mission
                 </h2>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                  At MP Consulting Limited, our mission is to empower property buyers with the knowledge and insights they need to make confident purchase decisions. We believe that informed buyers make better decisions, avoid costly mistakes, and achieve their property goals more successfully.
+                  At Build Clarity, our mission is to empower property buyers with the knowledge and insights they need to make confident purchase decisions. We believe that informed buyers make better decisions, avoid costly mistakes, and achieve their property goals more successfully.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
                   We step in before you purchase to offer our expertise in specification, pricing, and design for your proposed renovations. This pre-purchase insight gives you the knowledge you need before making the big commitment.
@@ -119,7 +119,7 @@ export default function AboutPage() {
                   Based in Knutsford
                 </h3>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                  MP Consulting Limited is based on Princess Street in Knutsford, UK. We serve clients throughout the North West and beyond, bringing our expertise to property buyers who want to make informed decisions.
+                  Build Clarity is based on Princess Street in Knutsford, UK. We serve clients throughout the North West and beyond, bringing our expertise to property buyers who want to make informed decisions.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
                   Whether you&apos;re looking at a property in Knutsford, Manchester, Altrincham, or anywhere in the region, we&apos;re here to help you understand exactly what your renovation project will involve before you commit to the purchase.

@@ -31,7 +31,7 @@ export default function WhyChooseUs() {
       <div className="container-custom">
         <div className="text-center mb-16">
           <h2 className="font-display text-3xl md:text-4xl font-bold text-primary-900 mb-4">
-            Why Choose MP Consulting?
+            Why Choose Build Clarity?
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             We combine construction expertise with consulting excellence to deliver unmatched value
