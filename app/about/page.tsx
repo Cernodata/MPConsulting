@@ -1,4 +1,10 @@
 import Link from 'next/link'
+import { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'About Build Clarity | Renovation Experts Knutsford',
+  description: 'Meet Martin, founder of Build Clarity. Over 25 years of construction experience helping Cheshire property buyers make informed decisions.',
+}
 
 export default function AboutPage() {
   return (
@@ -11,7 +17,7 @@ export default function AboutPage() {
               About Build Clarity
             </h1>
             <p className="text-xl text-primary-100 leading-relaxed">
-              Combining hands-on construction expertise with strategic consulting to help you make informed property purchase decisions.
+              Combining hands-on construction expertise with strategic consulting to help you make informed property purchase decisions in Cheshire.
             </p>
           </div>
         </div>
@@ -116,13 +122,13 @@ export default function AboutPage() {
 
               <div className="bg-accent-50 p-8 rounded-xl border-2 border-accent-200">
                 <h3 className="font-display text-2xl font-bold text-primary-900 mb-4">
-                  Based in Knutsford
+                  Serving Cheshire&apos;s Golden Triangle
                 </h3>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                  Build Clarity is based on Princess Street in Knutsford, UK. We serve clients throughout the North West and beyond, bringing our expertise to property buyers who want to make informed decisions.
+                  Build Clarity is based on Princess Street in Knutsford, UK. We specialise in supporting clients across the region&apos;s most sought-after locations.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  Whether you&apos;re looking at a property in Knutsford, Manchester, Altrincham, or anywhere in the region, we&apos;re here to help you understand exactly what your renovation project will involve before you commit to the purchase.
+                  Whether you&apos;re looking at a Victorian terrace in <strong>Altrincham</strong>, a large detached home in <strong>Wilmslow</strong> or <strong>Hale</strong>, or a project in <strong>Alderley Edge</strong> or <strong>Prestbury</strong>, we&apos;re here to help you understand exactly what your renovation project will involve.
                 </p>
               </div>
             </div>
@@ -147,4 +153,3 @@ export default function AboutPage() {
     </div>
   )
 }
-

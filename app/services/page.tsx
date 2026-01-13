@@ -1,6 +1,12 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import FAQ from '@/components/FAQ'
+import { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Renovation Services Cheshire | Surveys, Costs & Planning',
+  description: 'Comprehensive renovation consulting services in Cheshire. From pre-purchase surveys in Knutsford to cost estimations in Wilmslow.',
+}
 
 const services = [
   {
@@ -65,10 +71,10 @@ export default function ServicesPage() {
         <div className="container-custom">
           <div className="max-w-3xl">
             <h1 className="font-display text-4xl md:text-5xl font-bold mb-6">
-              Our Consulting Services
+              Expert Renovation Services in Cheshire
             </h1>
             <p className="text-xl text-primary-100 leading-relaxed">
-              Expert pre-purchase renovation consulting to help you make informed decisions. We combine construction expertise with strategic planning to deliver comprehensive insights.
+              Serving Knutsford, Wilmslow, Hale, and beyond. We combine construction expertise with strategic planning to deliver comprehensive insights for property buyers.
             </p>
           </div>
         </div>
@@ -163,4 +169,3 @@ export default function ServicesPage() {
     </div>
   )
 }
-

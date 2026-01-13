@@ -87,7 +87,7 @@ export default function ContactPage() {
             {/* Contact Form */}
             <div>
               <h2 className="font-display text-3xl font-bold text-primary-900 mb-6">
-                Book Your Consultation
+                Send Us a Message
               </h2>
               <p className="text-gray-600 mb-8">
                 Fill out the form below and we&apos;ll get back to you as soon as possible to schedule your consultation.
@@ -216,7 +216,7 @@ export default function ContactPage() {
                     <h3 className="font-semibold text-primary-900 mb-1">Address</h3>
                     <p className="text-gray-600">
                       Princess Street<br />
-                      Knutsford, UK
+                      Knutsford, Cheshire, UK
                     </p>
                   </div>
                 </div>
@@ -274,4 +274,3 @@ export default function ContactPage() {
     </div>
   )
 }
-

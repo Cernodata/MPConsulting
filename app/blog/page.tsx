@@ -1,6 +1,12 @@
 import React from 'react'
 import Link from 'next/link'
 import { blogPosts } from '@/data/blog'
+import { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Renovation Advice Blog | Tips for Cheshire Property Buyers',
+  description: 'Expert advice on buying fixer-uppers, planning permission in Cheshire, and renovation costs. Read the latest insights from Build Clarity.',
+}
 
 export default function BlogPage() {
   return (

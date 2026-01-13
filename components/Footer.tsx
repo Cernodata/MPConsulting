@@ -72,12 +72,24 @@ export default function Footer() {
 
           <div>
             <h3 className="font-semibold text-lg mb-4">Services</h3>
-            <ul className="space-y-2 text-primary-200">
+            <ul className="space-y-2 text-primary-200 mb-8">
               <li>Pre-Purchase Assessment</li>
               <li>Renovation Specification</li>
               <li>Cost Estimation</li>
               <li>Design Planning</li>
             </ul>
+
+            <h3 className="font-semibold text-lg mb-4">Areas We Serve</h3>
+            <div className="grid grid-cols-2 gap-x-4 gap-y-2 text-sm text-primary-200">
+              <span>Knutsford</span>
+              <span>Wilmslow</span>
+              <span>Alderley Edge</span>
+              <span>Hale</span>
+              <span>Bowdon</span>
+              <span>Altrincham</span>
+              <span>Prestbury</span>
+              <span>Cheshire</span>
+            </div>
           </div>
         </div>
 

@@ -2,6 +2,12 @@ import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 import { projects } from '@/data/projects'
+import { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Renovation Case Studies Cheshire | Wilmslow & Hale Projects',
+  description: 'See how we have helped clients in Altrincham, Knutsford, and Manchester save money and avoid renovation disasters. Real examples from Build Clarity.',
+}
 
 export default function ProjectsPage() {
   return (
