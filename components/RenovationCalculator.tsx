@@ -161,7 +161,7 @@ export default function RenovationCalculator() {
           
           <div className="space-y-4">
             <p className="text-gray-700">
-              We've sent a detailed breakdown of this estimate to <strong>{email}</strong>.
+              We&apos;ve sent a detailed breakdown of this estimate to <strong>{email}</strong>.
             </p>
             <button 
               onClick={() => setShowResult(false)}

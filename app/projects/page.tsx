@@ -12,7 +12,7 @@ export default function ProjectsPage() {
             Case Studies
           </h1>
           <p className="text-xl text-primary-100 max-w-2xl mx-auto">
-            Real examples of how we've helped clients save money and avoid disasters.
+            Real examples of how we&apos;ve helped clients save money and avoid disasters.
           </p>
         </div>
       </section>

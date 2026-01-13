@@ -70,7 +70,7 @@ export default function ContactPage() {
                 Book a Free 15-Minute Discovery Call
               </h2>
               <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-                Skip the back-and-forth emails. Pick a time that works for you directly from Martin's calendar.
+                Skip the back-and-forth emails. Pick a time that works for you directly from Martin&apos;s calendar.
               </p>
               
               {/* This is where the Calendly inline widget would go */}
