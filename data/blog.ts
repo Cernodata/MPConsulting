@@ -1,5 +1,111 @@
 export const blogPosts = [
   {
+    id: 'renovating-victorian-terrace-altrincham',
+    title: 'Renovating a Victorian Terrace in Altrincham: A Buyer\'s Guide',
+    excerpt: 'Altrincham is famous for its beautiful Victorian housing stock. Here is what to watch out for before you buy, from basement damp to loft conversion potential.',
+    date: 'March 20, 2024',
+    author: 'Martin',
+    category: 'Local Guide',
+    readTime: '6 min read',
+    content: `
+      <p>Altrincham consistently gets voted one of the best places to live in the UK, and its housing market reflects that. The area is renowned for its stunning Victorian and Edwardian terraces, particularly around the Market Quarter and towards Hale.</p>
+      
+      <p>However, buying a 100+ year old property comes with risks. If you are looking at a renovation project in Altrincham, here is what our local experience suggests you need to check.</p>
+
+      <h3>1. The "Cellar" Issue</h3>
+      <p>Many terraces in Altrincham have cellars or half-basements. While these offer amazing potential for conversion (increasing your square footage and value significantly), they are notorious for damp. Before you offer, check:</p>
+      <ul>
+        <li>Is there standing water?</li>
+        <li>Is the head height sufficient (min 2.4m for a comfortable room)?</li>
+        <li>Has it been "tanked" previously? (Look for certificates).</li>
+      </ul>
+      <p>A full basement conversion in Altrincham can cost £1,500-£2,500 per m², but adds significant value.</p>
+
+      <h3>2. Roof Spread</h3>
+      <p>Victorian construction relied on timber purlins. Over a century, the weight of the slate can push the walls outwards—known as "roof spread." Stand across the street and look at the roofline. Does it "sag" in the middle? Do the front walls look like they are bowing out slightly?</p>
+
+      <h3>3. Loft Conversion Potential</h3>
+      <p>Most buyers want to extend up. In Altrincham, Planning Permission is usually required for rear dormers in Conservation Areas (like The Downs). Check if neighbours have done it. If the ridge height is low, you might need to lower the first-floor ceilings—a messy and expensive job.</p>
+
+      <p><strong>Local Tip:</strong> Skip permits can be a nightmare on Altrincham's narrow terraced streets. Factor in the cost of "wait and load" skip services if there is no driveway.</p>
+    `
+  },
+  {
+    id: 'planning-permission-wilmslow-alderley-edge',
+    title: 'Planning Permission in Wilmslow & Alderley Edge: Navigating Conservation Areas',
+    excerpt: 'Building in the Golden Triangle isn\'t always straightforward. We explain the specific planning constraints in Wilmslow and Alderley Edge.',
+    date: 'March 18, 2024',
+    author: 'Martin',
+    category: 'Planning',
+    readTime: '5 min read',
+    content: `
+      <p>Wilmslow and Alderley Edge are characterised by large detached homes in spacious plots. It is why people move here. However, specifically to preserve this character, Cheshire East Council enforces strict planning policies, particularly in Conservation Areas.</p>
+
+      <h3>The "Plot Ratio" Trap</h3>
+      <p>In areas like Alderley Edge, you cannot simply fill the garden with a mega-mansion. Planners look closely at the ratio of built footprint to green space. If you extend too far, you risk "overdevelopment of the plot," which is a common reason for refusal locally.</p>
+
+      <h3>Tree Preservation Orders (TPOs)</h3>
+      <p>The leafy avenues of Wilmslow are protected. Many mature trees have TPOs. You cannot chop them down to build an extension, and you often cannot dig foundations within their "Root Protection Area" (RPA). Always check the TPO register before bidding on a plot with large trees.</p>
+
+      <h3>Teardown vs. Renovation</h3>
+      <p>It is becoming increasingly common to buy a 1950s/60s house in Wilmslow and knock it down to build a modern eco-home. While often permitted, VAT rules differ. Renovations attract 20% VAT; new builds are 0% VAT. This 20% saving can be the difference between profit and loss, but getting the demolition approved requires proving the new building enhances the street scene.</p>
+    `
+  },
+  {
+    id: 'cost-of-extending-hale-bowdon',
+    title: 'The Cost of Extending in Hale & Bowdon (2025 Update)',
+    excerpt: 'Renovating in Cheshire\'s most exclusive postcodes requires a different budget approach. Here is what to expect when building in Hale and Bowdon.',
+    date: 'March 10, 2024',
+    author: 'Martin',
+    category: 'Costing',
+    readTime: '7 min read',
+    content: `
+      <p>Hale and Bowdon command some of the highest price-per-square-foot values in the North of England. Consequently, the standard of finish expected is incredibly high. "Standard" renovation costs don't apply here.</p>
+
+      <h3>The "Hale Premium"</h3>
+      <p>It is not just that contractors charge more (though some do). It is that a standard radiator looks out of place in a £2m Bowdon villa. You are likely installing underfloor heating, smart lighting (Lutron/Rako), and bespoke joinery.</p>
+
+      <p><strong>Realistic Cost Ranges for Hale/Bowdon:</strong></p>
+      <ul>
+        <li><strong>Extensions:</strong> £3,000 - £4,500 per m² (vs £2,500 average elsewhere)</li>
+        <li><strong>Kitchens:</strong> £40,000 - £100,000+</li>
+        <li><strong>Bathrooms:</strong> £15,000 - £30,000</li>
+      </ul>
+
+      <h3>Basements are King</h3>
+      <p>With plot sizes in Hale village often being constrained, going down is the popular option. Basement conversions for home cinemas, gyms, or wine cellars are standard. However, the water table in parts of Hale can be high. You need a specialist hydrogeological survey before starting.</p>
+
+      <h3>Maximising Resale Value</h3>
+      <p>The ceiling price in Bowdon is almost limitless. Spending £200k on an extension can easily add £400k to the value <em>if done correctly</em>. The key is maintaining the period features (sash windows, cornicing) while adding the modern open-plan living space at the rear.</p>
+    `
+  },
+  {
+    id: 'knutsford-conservation-area-guide',
+    title: 'Buying in Knutsford? A Guide to the Town Centre Conservation Area',
+    excerpt: 'Knutsford\'s Italianate architecture is beautiful but protected. Read this before you plan a renovation in the town centre.',
+    date: 'February 25, 2024',
+    author: 'Martin',
+    category: 'Local Guide',
+    readTime: '5 min read',
+    content: `
+      <p>Knutsford is unique. Thanks to Richard Harding Watt, we have a bizarre and beautiful collection of Italianate buildings that you won't find anywhere else in Cheshire. Because of this, the Town Centre Conservation Area is strictly managed.</p>
+
+      <h3>Article 4 Directions</h3>
+      <p>In many parts of Knutsford, "Permitted Development" rights have been removed via Article 4 directions. This means you might need planning permission for things that are usually free to do, such as:</p>
+      <ul>
+        <li>Changing windows (even at the back!)</li>
+        <li>Painting your front door a different colour</li>
+        <li>Removing a chimney stack</li>
+        <li>Paving over a front garden</li>
+      </ul>
+
+      <h3>Parking & Logistics</h3>
+      <p>If you are buying a terrace on Princess Street or King Street, how are you going to renovate it? Access is a major logistical headache. Skips often cannot be placed on the narrow roads. You may need to budget for "bag and collect" services or apply for road closure permits for deliveries. These logistical costs add up and are often missed in initial budgets.</p>
+      
+      <p>At Build Clarity, we know the local planning officers and the logistical tricks to get projects delivered in Knutsford's tight historic core.</p>
+    `
+  },
+  {
     id: '5-red-flags-buying-fixer-upper',
     title: '5 Red Flags to Look For When Buying a Fixer-Upper',
     excerpt: 'Before you fall in love with a property\'s potential, make sure you spot these warning signs that could drain your bank account.',
