@@ -64,6 +64,25 @@ export default function ContactPage() {
       {/* Contact Section */}
       <section className="section-padding">
         <div className="container-custom">
+          {/* Booking Embed Placeholder */}
+          <div className="mb-20 bg-white p-8 rounded-xl shadow-lg border border-primary-100 text-center">
+             <h2 className="font-display text-2xl font-bold text-primary-900 mb-4">
+                Book a Free 15-Minute Discovery Call
+              </h2>
+              <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
+                Skip the back-and-forth emails. Pick a time that works for you directly from Martin's calendar.
+              </p>
+              
+              {/* This is where the Calendly inline widget would go */}
+              <div className="bg-gray-100 h-96 rounded-lg flex items-center justify-center border-2 border-dashed border-gray-300">
+                <div className="text-center text-gray-500">
+                   <p className="font-semibold text-lg mb-2">Calendly Widget Placeholder</p>
+                   <p className="text-sm">(To activate: Insert Calendly Embed Code Here)</p>
+                   <button className="mt-4 btn-primary opacity-50 cursor-not-allowed">Select a Date & Time</button>
+                </div>
+              </div>
+          </div>
+
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
             {/* Contact Form */}
             <div>

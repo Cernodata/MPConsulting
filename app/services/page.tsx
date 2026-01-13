@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
+import FAQ from '@/components/FAQ'
 
 const services = [
   {
@@ -127,6 +128,21 @@ export default function ServicesPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* FAQ Section */}
+      <section className="section-padding bg-gray-50">
+        <div className="container-custom">
+          <div className="text-center mb-12">
+            <h2 className="font-display text-3xl md:text-4xl font-bold text-primary-900 mb-4">
+              Frequently Asked Questions
+            </h2>
+            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+              Common questions about our consulting process.
+            </p>
+          </div>
+          <FAQ />
         </div>
       </section>
 

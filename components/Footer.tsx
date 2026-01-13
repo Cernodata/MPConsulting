@@ -48,6 +48,21 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/projects" className="text-primary-200 hover:text-white transition-colors">
+                  Case Studies
+                </Link>
+              </li>
+              <li>
+                <Link href="/blog" className="text-primary-200 hover:text-white transition-colors">
+                  Blog
+                </Link>
+              </li>
+              <li>
+                <Link href="/resources" className="text-primary-200 hover:text-white transition-colors">
+                  Resources
+                </Link>
+              </li>
+              <li>
                 <Link href="/contact" className="text-primary-200 hover:text-white transition-colors">
                   Contact
                 </Link>
@@ -68,6 +83,10 @@ export default function Footer() {
 
         <div className="border-t border-primary-800 mt-12 pt-8 text-center text-primary-200">
           <p>&copy; {new Date().getFullYear()} Build Clarity. All rights reserved.</p>
+          <div className="flex justify-center gap-6 mt-4 text-sm">
+             <Link href="/privacy" className="hover:text-white transition-colors">Privacy Policy</Link>
+             <Link href="/terms" className="hover:text-white transition-colors">Terms of Service</Link>
+          </div>
         </div>
       </div>
     </footer>
